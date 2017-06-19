@@ -9,6 +9,8 @@ gem 'puma'
 gem 'rails', '5.1.1'
 gem 'redis'
 
+gem 'omniauth-facebook'
+
 gem 'autoprefixer-rails'
 gem 'bootstrap-sass'
 gem 'font-awesome-sass'
